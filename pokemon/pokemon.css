@@ -1,0 +1,17 @@
+/* POKEMON STYLE SHEET-TABLE COLOR */
+
+* {
+    background-color: rgb(225, 226, 166);
+}
+
+table {
+    background-color: red;
+}
+
+td {
+    background-color: gray;
+}
+
+th {
+    background-color: greenyellow;
+}
